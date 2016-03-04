@@ -1,0 +1,35 @@
+/node_modules
+/bower_components
+/.tmp
+/public
+npm-debug.log
+
+# OS/IDE generated files #
+##########################
+.DS_Store*
+._.DS_Store
+._.DS_Store*
+*DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+_notes
+dwsync.xml
+*/.sass-cache/*
+.sass-cache
+.sass-cache/*
+._*
+*.sublime-project
+*.sublime-workspace
+*.esproj
+*.idea
+*.vi
+
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+
+# Theme files #
+##########################
+**/themes/**/img-src
+**/themes/**/node_modules

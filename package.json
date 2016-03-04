@@ -1,0 +1,37 @@
+{
+  "name": "groovebox",
+  "description": "Sound experiments with Three.js",
+  "author": "colorfield <christophe@colorfield.eu> (http://colorfield.eu)",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "brunch watch --server",
+    "test": "npm test",
+    "build": "brunch build --production",
+    "prepublish": "brunch build --production"
+  },
+  "keywords": [
+    "three.js",
+    "HTML5",
+    "canvas",
+    "webgl",
+    "sound"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-daneelolivaw/groovebox"
+  },
+  "bugs": {
+    "url": "https://github.com/r-daneelolivaw/groovebox/issues"
+  },
+  "homepage": "https://github.com/r-daneelolivaw/groovebox#readme",
+  "devDependencies": {
+    "auto-reload-brunch": "^2.0.0",
+    "brunch": "^2.4.2",
+    "css-brunch": "^2.0.0",
+    "digest-brunch": "^1.5.1",
+    "jade-brunch": "^2.0.0",
+    "javascript-brunch": "^2.0.0",
+    "sass-brunch": "^2.0.0"
+  },
+  "dependencies": {}
+}

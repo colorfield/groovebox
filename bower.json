@@ -1,0 +1,29 @@
+{
+  "name": "groovebox",
+  "homepage": "https://github.com/r-daneelolivaw/groovebox",
+  "authors": [
+    "colorfield <christophe@colorfield.eu>"
+  ],
+  "description": "Sound experiments with Three.js",
+  "main": "public/app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "Three.js",
+    "HTML5",
+    "canvas",
+    "webgl",
+    "sound"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
