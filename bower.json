@@ -25,6 +25,7 @@
     "tests"
   ],
   "dependencies": {
-    "three.js": "mrdoob/three.js"
+    "three.js": "mrdoob/three.js",
+    "jquery": "^2.2.1"
   }
 }
